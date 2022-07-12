@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oiê! Me chamo Raphael Miranda
 
-<!--
-**raphaelc484/raphaelc484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com desenvolvimento full stack
+- 🌱 Sempre estudando mais de Typescript, NodeJS e React
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/raphaelc484">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelc484&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelc484&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
